@@ -1,0 +1,13 @@
+param : Product : Cost_Barrel Octane_Rating Vapor_Pressure  Supply :=
+1  18 100 4 500000
+2  13 98 10 460000
+3  12 83 6 389000
+4  11 78 9 400000
+5  14 81 11 520000;
+
+param : Gasoline : Min_Octane_Rating Max_Vapor_Pressure Price_Barrel Demand :=
+1  89 11 14 1100
+2  91 13 18 800
+3  70 17 15 900
+4  79 15 13 1000
+5  80 13 18 400;
